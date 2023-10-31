@@ -1,0 +1,10 @@
+git init
+git config user.name ""
+git config user.email""
+git add .
+git status
+git commit -m "first version of banglore"
+git log we get version number
+git checkout version number
+git checkout master
+frst make changes then git add then commit then check the log and status'
